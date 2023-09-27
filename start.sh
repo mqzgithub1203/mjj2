@@ -4,9 +4,9 @@ export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_PORT=${NEZHA_PORT:-''}
 export NEZHA_KEY=${NEZHA_KEY:-''}
 export TLS=${TLS:-'1'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-'argo2.cfsite.eu.org'}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
-export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"81529304175f3a4b9e1be57950e5ff73","TunnelSecret":"0Cdpbk+RAs8v13s6vpngmYwDGuv1gATgdlYShVcV2Eo=","TunnelID":"211b16bb-72f0-470b-b9ed-bade1fbd4c72"}'}
+export ARGO_AUTH=${ARGO_AUTH:-''}
 export WSPATH=${WSPATH:-'argo'}
 export UUID=${UUID:-'c650c4df-0961-423c-a833-b5871b842d09'}
 export CFIP=${CFIP:-'icook.hk'}
